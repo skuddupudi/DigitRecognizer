@@ -1,6 +1,6 @@
 This project contains code to predict the digit based on given picture data.
 
-This is just an introduction to scikit-learn and other data minig concepts
+This is an introduction to scikit-learn and other data minig concepts
 
 I used the following classification algorithms :
 1. KNN
